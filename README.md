@@ -15,7 +15,8 @@ Model deteksi objek yang digunakan adalah **YOLOv11**, yang telah dilatih khusus
 ## **Tautan & Demo Proyek**
 
 - **Repositori GitHub**: [KillerKing93/UAS-Visi-Komputer](https://github.com/KillerKing93/UAS-Visi-Komputer)
-- **Demo Aplikasi (Hugging Face)**: [Coba Demo Langsung](https://huggingface.co/spaces/KillerKing93/UAS-VisiKomputer-ConstructionWorker)
+- **Repositori Aplikasi (Hugging Face)**: [Lihat Kode Aplikasi yang Di-deploy](https://huggingface.co/spaces/KillerKing93/UAS-VisiKomputer-ConstructionWorker)
+- **Demo Aplikasi (Hugging Face)**: [Coba Demo Langsung](https://killerKing93-UAS-VisiKomputer-ConstructionWorker.hf.space)
 - **Video Demo (YouTube)**: [Tonton Video Demo](https://youtu.be/4KZygNTIRJw)
 - **Presentasi Proyek (Canva)**: [Lihat Presentasi](https://www.canva.com/design/DAGmdjBp-g8/e-WFxyfP_Z15-a0fOmzktg/edit?utm_content=DAGmdjBp-g8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **Eksport Bobot Model dan Metadata:** [Yolo V11 Exports](https://drive.google.com/drive/folders/1ZgIKv7K4RTLR4VsM2PULomU4B46b70jt)
