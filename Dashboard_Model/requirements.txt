@@ -1,0 +1,9 @@
+gradio
+torch
+ultralytics
+opencv-python
+pytube
+PyYAML
+pandas
+matplotlib
+gdown
