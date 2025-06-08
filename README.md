@@ -76,7 +76,7 @@ Dataset dari Roboflow dipilih karena merepresentasikan kondisi nyata di lapangan
 
 ### **Metrik Evaluasi Performa**
 
-Performa model dievaluasi menggunakan metrik standar dalam deteksi objek:
+Performa model dievaluasi menggunakan metrik standar dalam deteksi objek: [Google Drive](https://drive.google.com/drive/folders/17R3B7BB8y0sVvjztTU5xI17a-m2GFBtN)
 
 - **Precision & Recall**: Mengukur seberapa akurat prediksi model dan seberapa baik model menemukan semua objek yang relevan.
 - **mAP (mean Average Precision)**: Metrik utama untuk mengevaluasi performa model deteksi objek. Kami mencapai:
